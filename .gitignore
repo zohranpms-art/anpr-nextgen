@@ -1,0 +1,10 @@
+venv/
+venv310/
+__pycache__/
+*.pyc
+*.log
+build/
+dist/
+*.dll
+*.exe
+*.pyd
